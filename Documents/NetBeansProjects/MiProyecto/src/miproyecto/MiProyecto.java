@@ -17,6 +17,7 @@ public class MiProyecto {
     public static void main(String[] args) {
     
         System.out.println("Hola soy Diego");
+        System.out.println("Hola soy Diego");
     }
     
     
